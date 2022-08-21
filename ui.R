@@ -1,5 +1,6 @@
 library(shiny)
 library(shinythemes)
+library(markdown)
 
 
 # Define UI for miles per gallon app ----
