@@ -1,7 +1,6 @@
 # Boxplot
 # Load R packages/libraries
 library(shiny)
-library(shinythemes)
 library(RCurl)
 
 tbs <- read.csv(text = getURL("https://raw.githubusercontent.com/wane199/Presentation/master/TBS/app/data/M_1018.csv"))
